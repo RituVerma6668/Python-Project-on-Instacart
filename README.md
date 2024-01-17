@@ -12,11 +12,11 @@ Project Name: Instacart Grocery Basket Analysis
 
 Contents:
 	
-Population Flow	
-Consistency checks	
-Wrangling steps	
-Column derivations	
-Visualizations	
+Population Flow, 	
+Consistency checks, 	
+Wrangling steps, 	
+Column derivations, 	
+Visualizations, 	
 Recommendations	
 
 
