@@ -74,7 +74,7 @@ Recommendations
 
 
 ## 🚀 About Me
-My name is Ritu Verma.i am learning Data Analysis with CareerFoundry.
+My name is Ritu Verma.i am a Data Analyst.
 
 
 
