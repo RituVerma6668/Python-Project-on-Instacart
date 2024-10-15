@@ -15,11 +15,10 @@ Build a Machine Learning model to predict which previously purchased product wil
 
 ---
 # Data Description
----
 
-aisles:      This file contains different aisles and there are total 134 unique aisles.
-departments: This file contains different departments and there are total 21 unique departments.
-orders:     -This file contains all the orders made by different users. From below analysis, we can conclude following:
+- aisles:      This file contains different aisles and there are total 134 unique aisles.
+- departments: This file contains different departments and there are total 21 unique departments.
+- orders:      This file contains all the orders made by different users. From below analysis, we can conclude following:
             -There are total 3421083 orders made by total 206209 users.
             -There are three sets of orders: Prior, Train and Test. The distributions of orders in Train and Test sets are similar whereas the distribution of orders in Prior set              is different.
             -The total orders per customer ranges from 0 to 100.
