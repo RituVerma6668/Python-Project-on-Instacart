@@ -16,13 +16,13 @@ Instacart is an American technology company that operates as a same-day grocery 
 ---
 # Data Description
 ---
-    aisles: This file contains different aisles and there are total 134 unique aisles.
+aisles: This file contains different aisles and there are total 134 unique aisles.
 
-    departments: This file contains different departments and there are total 21 unique departments.
+departments: This file contains different departments and there are total 21 unique departments.
 
-    orders: This file contains all the orders made by different users. From below analysis, we can conclude following:
+orders: This file contains all the orders made by different users. From below analysis, we can conclude following:
         There are total 3421083 orders made by total 206209 users.
-        There are three sets of orders: Prior, Train and Test. The distributions of orders in Train and Test sets are similar whereas the distribution of orders in Prior set is different.
+        There are three sets of orders: Prior, Train and Test. The distributions of orders in Train and Test sets are similar whereas the distribution of orders in Prior set is   different.
         The total orders per customer ranges from 0 to 100.
         Based on the plot of 'Orders VS Day of Week' we can map 0 and 1 as Saturday and Sunday respectively based on the assumption that most of the people buy groceries on weekends.
         Majority of the orders are made during the day time.
@@ -31,6 +31,28 @@ Instacart is an American technology company that operates as a same-day grocery 
 ---
 <img width="461" alt="dow" src="https://github.com/user-attachments/assets/e8fbd814-6d5b-49af-8807-1bd206177772">
 ---
+![bar_Department_income](https://github.com/user-attachments/assets/4aacb34e-f9e3-4baf-ac56-058eef108a7d)
+---
+![No_ofItems_howmany_times](https://github.com/user-attachments/assets/3ec5b30c-5759-425f-b6d9-5b930016801c)
+---
+<img width="586" alt="heatmap" src="https://github.com/user-attachments/assets/d8c12686-b2bf-4d2e-acfa-c14c86515637">
+---
+- products: This file contains the list of total 49688 products and their aisle as well as department. The number of products in different aisles and different departments are different.
+
+- order_products_prior: This file gives information about which products were ordered and in which order they were added in the cart. It also tells us that if the product was reordered or not.
+  - In this file there is an information of total 3214874 orders through which total 49677 products were ordered.
+  - From the 'Count VS Items in cart' plot, we can say that most of the people buy 1-15 items in an order and there were a maximum of 145 items in an order.
+  - The percentage of reorder items in this set is 58.97%.
+---
+# Exploratory Data Analysis
+
+For the analysis I combined all of the separate data files into one single dataframe and to fit the dataframe in my memory I reduced its size to 50% (4.1 GB to 2.0 GB) by type conversion and without loosing any information.
+
+This plot shows most popular aisles based on total products bought.
+    ---
+<img width="649" alt="popular-aisles" src="https://github.com/user-attachments/assets/041e34a1-d6e8-4a3d-a65b-a1e5a8d8b897">
+---
+
 
 # Instacart
 
