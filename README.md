@@ -92,14 +92,19 @@ Build a Machine Learning model to predict which previously purchased product wil
 <img width="630" alt="aisle-low-reorder" src="https://github.com/user-attachments/assets/f577fca4-5a4b-4447-9f4f-b796741d2f65">
 
 ---
+
 - The below plot shows most popular products. As we can see there are many organic products in the most popular products.
+
   <img width="667" alt="Most-popular-products" src="https://github.com/user-attachments/assets/682e7648-f6c2-4b04-867b-821ef10ff526">
+
 ---
 
--In the below plot of reorder percentage and number of product purchase, we see a ceiling effect. Many people try different product once and they do not reorder again. Also, there are users who buy certain products regularly.
+- In the below plot of reorder percentage and number of product purchase, we see a ceiling effect. Many people try different product once and they do not reorder again. Also, there are users who buy certain products regularly.
 
 <img width="427" alt="reorder-total-orders" src="https://github.com/user-attachments/assets/c363796a-3e21-423a-9302-65a2082ad04d">
+
 ---
+
 - We can see that the total unique users of products having highest reorder ratio are only few (1-15 only). This means that these users like these products and would buy regularly.
 
 <img width="377" alt="reorder-df" src="https://github.com/user-attachments/assets/cbd7cae8-5d0c-4600-987e-ac4106d0c58c">
