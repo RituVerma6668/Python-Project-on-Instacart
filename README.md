@@ -79,9 +79,10 @@ Build a Machine Learning model to predict which previously purchased product wil
 
 # Exploratory Data Analysis
 
-For the analysis I combined all of the separate data files into one single dataframe and to fit the dataframe in my memory I reduced its size to 50% (4.1 GB to 2.0 GB) by type conversion and without loosing any information.
+- For the analysis I combined all of the separate data files into one single dataframe and to fit the dataframe in my memory I reduced its size to 50% (4.1 GB to 2.0 GB) by type conversion and without loosing any information.
+---
 
-- This plot shows most popular aisles based on total products bought.
+  -  This plot shows most popular aisles based on total products bought.
     ---
 <img width="649" alt="popular-aisles" src="https://github.com/user-attachments/assets/041e34a1-d6e8-4a3d-a65b-a1e5a8d8b897">
 ---
