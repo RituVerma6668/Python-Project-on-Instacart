@@ -61,6 +61,18 @@ Build a Machine Learning model to predict which previously purchased product wil
   - From the 'Count VS Items in cart' plot, we can say that most of the people buy 1-15 items in an order and there were a maximum of 145 items in an order.
   - The percentage of reorder items in this set is 58.97%.
 ---
+
+- order_products_train: This file gives information about which products were ordered and in which order they were added in the cart. It also tells us that if the product was                             reordered or not.
+   - In this file there is an information of total 131209 orders through which total 39123 products were ordered.
+   - From the 'Count VS Items in cart' plot, we can say that most of the people buy 1-15 items in an order and there were a maximum of 145 items in an order.
+   - The percentage of reorder items in this set is 59.86%.
+ 
+---
+
+<img width="623" alt="train" src="https://github.com/user-attachments/assets/f4e1973f-876d-4595-a26a-1a8e8002fa38">
+
+---
+
 # Exploratory Data Analysis
 
 For the analysis I combined all of the separate data files into one single dataframe and to fit the dataframe in my memory I reduced its size to 50% (4.1 GB to 2.0 GB) by type conversion and without loosing any information.
