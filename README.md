@@ -41,12 +41,19 @@ Build a Machine Learning model to predict which previously purchased product wil
 <img width="461" alt="dow" src="https://github.com/user-attachments/assets/e8fbd814-6d5b-49af-8807-1bd206177772">
 
 ---
+
 ![bar_Department_income](https://github.com/user-attachments/assets/4aacb34e-f9e3-4baf-ac56-058eef108a7d)
+
 ---
+
 ![No_ofItems_howmany_times](https://github.com/user-attachments/assets/3ec5b30c-5759-425f-b6d9-5b930016801c)
+
 ---
+
 <img width="586" alt="heatmap" src="https://github.com/user-attachments/assets/d8c12686-b2bf-4d2e-acfa-c14c86515637">
+
 ---
+
 - products: This file contains the list of total 49688 products and their aisle as well as department. The number of products in different aisles and different departments are different.
 
 - order_products_prior: This file gives information about which products were ordered and in which order they were added in the cart. It also tells us that if the product was reordered or not.
