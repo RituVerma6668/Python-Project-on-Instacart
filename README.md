@@ -83,7 +83,6 @@ Build a Machine Learning model to predict which previously purchased product wil
 ---
 
 - This plot shows most popular aisles based on total products bought.
-- 
 ---
 
 <img width="649" alt="popular-aisles" src="https://github.com/user-attachments/assets/041e34a1-d6e8-4a3d-a65b-a1e5a8d8b897">
