@@ -37,7 +37,9 @@ Build a Machine Learning model to predict which previously purchased product wil
   - Based on the heatmap between 'Day of Week' and 'Hour of Day,' we can say that Saturday afternoons and Sunday mornings are prime time for orders.
     
 ---
+
 <img width="461" alt="dow" src="https://github.com/user-attachments/assets/e8fbd814-6d5b-49af-8807-1bd206177772">
+
 ---
 ![bar_Department_income](https://github.com/user-attachments/assets/4aacb34e-f9e3-4baf-ac56-058eef108a7d)
 ---
