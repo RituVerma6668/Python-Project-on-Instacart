@@ -80,12 +80,16 @@ Build a Machine Learning model to predict which previously purchased product wil
 
 For the analysis I combined all of the separate data files into one single dataframe and to fit the dataframe in my memory I reduced its size to 50% (4.1 GB to 2.0 GB) by type conversion and without loosing any information.
 
-This plot shows most popular aisles based on total products bought.
+- This plot shows most popular aisles based on total products bought.
     ---
 <img width="649" alt="popular-aisles" src="https://github.com/user-attachments/assets/041e34a1-d6e8-4a3d-a65b-a1e5a8d8b897">
 ---
+- As we can see in below plot that the reorder percentage of day-to-day food items is high and for other products such as vitamins, first-aids, beauty products, etc. reorder percentage is low. This is true as we buy only groceries regularly and do not buy those items in every order.
 
+<img width="643" alt="aisle-high-reorder" src="https://github.com/user-attachments/assets/e5228dec-820f-49b3-8e00-bfd69d7abc57">
+<img width="630" alt="aisle-low-reorder" src="https://github.com/user-attachments/assets/f577fca4-5a4b-4447-9f4f-b796741d2f65">
 
+---
 # Instacart
 
 Project Name: Instacart Grocery Basket Analysis
